@@ -12,7 +12,7 @@ Currently on cosma (15/10/25) the following python packages work with the arepo-
 - numpy 1.26.4
 - matplotlib 3.8.0
 - scipy 1.13.1
-- h5py
+- h5py 3.11.0
 
 These packages will need to be installed before arep-snap-utils, as the code doesn't currently have dependencies set up
 
